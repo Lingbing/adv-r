@@ -443,7 +443,7 @@ In this example, there's not a huge benefit to using function operators, because
 
 ## Input FOs
 
-The next step up in complexity is to modify the inputs of a function.Again, you can modify how a function works in a minor way (e.g., prefilling some of the arguments), or fundamentally change the inputs (e.g. converting inputs from scalar to vector, or vector to matrix).
+The next step up in complexity is to modify the inputs of a function. Again, you can modify how a function works in a minor way (e.g., prefilling some of the arguments), or fundamentally change the inputs (e.g. converting inputs from scalar to vector, or vector to matrix).
 
 ### Prefilling function arguments: partial function application
 
